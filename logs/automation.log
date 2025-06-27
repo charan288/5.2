@@ -1,0 +1,174 @@
+19:24:32.714 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+19:24:33.273 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+19:24:34.091 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+19:24:34.095 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+19:24:35.884 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+19:24:35.939 [main] ERROR TestCases.T001_AccountRegestration -  test is failed 
+20:05:47.693 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+20:05:48.393 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+20:05:50.211 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+20:05:50.217 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+20:05:52.350 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+20:05:52.412 [main] ERROR TestCases.T001_AccountRegestration -  test is failed 
+20:06:42.387 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+20:06:43.050 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+20:06:44.537 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+20:06:44.537 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+20:06:46.498 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+20:06:46.559 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+20:08:45.208 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+20:08:45.492 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+20:08:46.367 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+20:08:46.370 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+20:08:48.107 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+20:08:48.131 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+20:14:58.336 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+20:14:58.813 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+20:14:59.586 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+20:14:59.589 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+20:15:02.470 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+20:15:02.713 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+20:15:09.512 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+20:15:09.773 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+20:15:10.364 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+20:15:10.364 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+20:15:14.472 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+20:15:14.560 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+20:15:22.483 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+20:15:22.738 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+20:15:23.282 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+20:15:23.283 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+20:15:25.222 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+20:15:25.241 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+20:16:57.198 [TestNG-tests-1] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+20:16:58.484 [TestNG-tests-1] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+20:16:59.882 [TestNG-tests-2] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+20:17:01.177 [TestNG-tests-2] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+20:17:01.647 [TestNG-tests-1] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+20:17:01.651 [TestNG-tests-1] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+20:17:04.070 [TestNG-tests-2] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+20:17:04.071 [TestNG-tests-2] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+20:17:06.533 [TestNG-tests-2] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+20:17:06.613 [TestNG-tests-2] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+20:17:08.519 [TestNG-tests-1] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+20:17:08.631 [TestNG-tests-1] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+20:17:12.415 [TestNG-tests-3] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+20:17:12.700 [TestNG-tests-3] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+20:17:13.626 [TestNG-tests-3] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+20:17:13.626 [TestNG-tests-3] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+20:17:15.196 [TestNG-tests-3] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+20:17:15.218 [TestNG-tests-3] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+20:40:14.525 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+20:40:14.887 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+20:40:15.678 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+20:40:15.680 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+20:40:20.340 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+20:40:20.416 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+10:22:21.737 [main] INFO  TestCases.T002_AccountLogin -  *******T002_AccountLogin started*****
+10:25:28.872 [main] INFO  TestCases.T002_AccountLogin -  *******T002_AccountLogin started*****
+10:25:33.357 [main] INFO  TestCases.T002_AccountLogin -  *******T002_AccountLogin finished*****
+13:17:39.645 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT started*****
+13:18:13.018 [main] INFO  TestCases.T003_LoginDDT - ✅ Login failed as expected.
+13:18:13.018 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT finished*****
+13:18:13.025 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT started*****
+13:18:44.502 [main] INFO  TestCases.T003_LoginDDT - ✅ Login failed as expected.
+13:18:44.502 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT finished*****
+13:18:44.502 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT started*****
+13:19:16.339 [main] INFO  TestCases.T003_LoginDDT - ✅ Login failed as expected.
+13:19:16.339 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT finished*****
+13:19:16.343 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT started*****
+13:19:47.184 [main] INFO  TestCases.T003_LoginDDT - ✅ Login failed as expected.
+13:19:47.184 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT finished*****
+13:19:47.200 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT started*****
+13:19:48.803 [main] INFO  TestCases.T003_LoginDDT - ✅ Login passed as expected.
+13:19:49.338 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT finished*****
+13:27:17.053 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT started*****
+13:27:51.570 [main] INFO  TestCases.T003_LoginDDT - ✅ Login failed as expected.
+13:27:51.570 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT finished*****
+13:27:51.570 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT started*****
+13:28:22.971 [main] WARN  TestCases.T003_LoginDDT - ❌ Login failed but was expected to pass.
+13:28:22.971 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT started*****
+13:28:54.305 [main] INFO  TestCases.T003_LoginDDT - ✅ Login failed as expected.
+13:28:54.305 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT finished*****
+13:28:54.305 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT started*****
+13:29:25.751 [main] INFO  TestCases.T003_LoginDDT - ✅ Login failed as expected.
+13:29:25.751 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT finished*****
+13:29:25.767 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT started*****
+13:29:27.431 [main] INFO  TestCases.T003_LoginDDT - ✅ Login passed as expected.
+13:29:27.853 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT finished*****
+14:33:23.010 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+14:33:23.913 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+14:33:25.692 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+14:33:25.692 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+14:33:28.722 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+14:33:28.789 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+14:42:35.783 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+14:42:36.372 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+14:42:37.082 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+14:42:37.084 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+14:42:42.748 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+14:42:42.820 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+14:42:50.431 [main] INFO  TestCases.T002_AccountLogin -  *******T002_AccountLogin started*****
+14:42:54.113 [main] INFO  TestCases.T002_AccountLogin -  *******T002_AccountLogin finished*****
+18:14:40.064 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+18:14:40.302 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+18:14:40.851 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+18:14:40.853 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+18:14:46.110 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+18:14:46.175 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+18:16:36.873 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT started*****
+18:17:03.919 [main] INFO  TestCases.T003_LoginDDT - ✅ Login failed as expected.
+18:17:03.922 [main] INFO  TestCases.T003_LoginDDT -  *******T003_AccountLogin DDT finished*****
+18:17:43.253 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+18:17:44.296 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+18:17:46.610 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+18:17:46.615 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+18:17:50.129 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+18:17:50.177 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+18:22:38.643 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+18:22:39.519 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+18:22:41.969 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+18:22:41.973 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+18:22:44.649 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+18:22:44.710 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+18:27:53.364 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+18:27:54.050 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+18:27:56.544 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+18:27:56.545 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+18:27:59.913 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+18:27:59.969 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+18:28:08.797 [main] INFO  TestCases.T002_AccountLogin -  *******T002_AccountLogin started*****
+18:28:14.765 [main] INFO  TestCases.T002_AccountLogin -  *******T002_AccountLogin finished*****
+18:31:52.358 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+18:31:53.111 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+18:31:55.405 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+18:31:55.415 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+18:31:59.130 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+18:31:59.184 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+18:32:07.208 [main] INFO  TestCases.T002_AccountLogin -  *******T002_AccountLogin started*****
+11:03:05.084 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+11:03:06.178 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+11:03:07.842 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+11:03:07.848 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+11:03:10.086 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+11:03:10.145 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+11:03:20.157 [main] INFO  TestCases.T002_AccountLogin -  *******T002_AccountLogin started*****
+11:03:24.792 [main] INFO  TestCases.T002_AccountLogin -  *******T002_AccountLogin finished*****
+11:06:10.384 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+11:06:10.443 [main] INFO  TestCases.T002_AccountLogin -  *******T002_AccountLogin started*****
+11:13:06.957 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+11:13:08.129 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+11:13:10.221 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+11:13:10.221 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+11:13:12.581 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+11:13:12.645 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+11:13:21.131 [main] INFO  TestCases.T002_AccountLogin -  *******T002_AccountLogin started*****
+11:13:26.827 [main] INFO  TestCases.T002_AccountLogin -  *******T002_AccountLogin finished*****
+15:26:00.922 [main] INFO  TestCases.T001_AccountRegestration -  **** starting T001_AccountRegestration
+15:26:01.301 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on my account ***
+15:26:02.146 [main] INFO  TestCases.T001_AccountRegestration - ***** clicked on register ***
+15:26:02.149 [main] INFO  TestCases.T001_AccountRegestration - ***** provide customer details  ***
+15:26:05.309 [main] INFO  TestCases.T001_AccountRegestration - ***** validating expected msg  ***
+15:26:05.391 [main] INFO  TestCases.T001_AccountRegestration - **** Test Completed Successfully ****
+15:26:10.671 [main] INFO  TestCases.T002_AccountLogin -  *******T002_AccountLogin started*****
+15:26:13.553 [main] INFO  TestCases.T002_AccountLogin -  *******T002_AccountLogin finished*****

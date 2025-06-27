@@ -1,0 +1,5 @@
+@echo off
+echo Running Maven Tests...
+cd /d "C:\chandra workspace\5.2"
+mvn clean test
+pause
